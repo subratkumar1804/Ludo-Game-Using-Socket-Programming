@@ -9,7 +9,7 @@ The main objective for each player is to move all his/her tokens or pieces to th
 
 ## How to Run
 ```bash
-git clone https://github.com/DjayChoudhary/Ludo
+git clone https://github.com/subratkumar1804/Ludo-Game-Using-Socket-Programming
 cd Ludo
 pip3 install pillow
 python3 main.py
